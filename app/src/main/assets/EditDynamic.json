@@ -1,0 +1,62 @@
+[
+    {
+        "field_label" : "Phone Number",
+        "input_field_hint" : "+91 XXX XXX XX XX",
+        "input_data_type" : "1",
+        "options" : []
+    } ,
+    {
+        "field_label" : "First Name",
+        "input_field_hint" : "John",
+        "input_data_type" : "2" ,
+        "options" : []
+    } , 
+    {
+        "field_label" : "Last Name",
+        "input_field_hint" : "Doe",
+        "input_data_type" : "2",
+        "options" :[]
+    } ,
+    {
+        "field_label" : "Age",
+        "input_field_hint" : null,
+        "input_data_type" : "5",
+        "options" : ["Male" , "Female"]
+    },
+    {
+        "field_label" : "Address",
+        "input_field_hint" : "M1 Street View, Ave Mt",
+        "input_data_type" : "3" ,
+        "options" :[]
+    } ,
+    {
+        "field_label" : "Appartment",
+        "input_field_hint" : "Lorem Appartments",
+        "input_data_type" : "3" ,
+        "options" :[]
+    } ,
+    {
+        "field_label" : "City",
+        "input_field_hint" : "Manhattan",
+        "input_data_type" : "2",
+        "options" :[]
+    } , 
+    {
+        "field_label" : "State",
+        "input_field_hint" : "Select State",
+        "input_data_type" : "4",
+        "options" :["New York" , "New Delhi" , "Toronto" , "Punjab" , "Haryana"]
+    }, 
+    {
+        "field_label" : "Pincode",
+        "input_field_hint" : "XXXXXX",
+        "input_data_type" : "1",
+        "options" : []
+    },
+    {
+        "field_label" : "Email Address",
+        "input_field_hint" : "email@provider.com",
+        "input_data_type" : "2",
+        "options" : []
+    }
+]
