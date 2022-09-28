@@ -99,6 +99,7 @@ class MainActivity : AppCompatActivity() {
                 }
             }
             // TODO: commit on prev commit
+            // TODO: perform all dynamic options
         }
 
     }
