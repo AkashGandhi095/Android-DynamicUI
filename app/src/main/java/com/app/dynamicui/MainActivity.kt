@@ -98,6 +98,7 @@ class MainActivity : AppCompatActivity() {
                     binding.linearLL.addView(spinner)
                 }
             }
+            // TODO: commit on prev commit
         }
 
     }
