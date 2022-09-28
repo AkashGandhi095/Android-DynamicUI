@@ -98,7 +98,8 @@ class MainActivity : AppCompatActivity() {
                     binding.linearLL.addView(spinner)
                 }
             }
-            // TODO: commit on prev commit
+
+            TODO("latest changes amended to last commit(added more info)")
         }
 
     }
